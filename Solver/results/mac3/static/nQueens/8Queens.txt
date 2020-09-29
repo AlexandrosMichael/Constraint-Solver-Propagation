@@ -1,0 +1,35 @@
+Initialising variables map...
+
+Initialising variables list...
+
+Begin solving with MAC solver...
+
+Using ascending variable strategy...
+
+Solution found
+-------------------------
+Node details
+Details for: Unassigned vars
+size of list : 0
+
+
+Node variables map: 
+var: 0 with domain:  0 
+
+var: 1 with domain:  4 
+
+var: 2 with domain:  7 
+
+var: 3 with domain:  5 
+
+var: 4 with domain:  2 
+
+var: 5 with domain:  6 
+
+var: 6 with domain:  1 
+
+var: 7 with domain:  3 
+
+Number of nodes: 65
+Number of arc revisions: 533
+Time elapsed: 25ms

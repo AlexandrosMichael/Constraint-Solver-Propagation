@@ -1,0 +1,27 @@
+Initialising variables map...
+
+Initialising variables list...
+
+Begin solving with MAC solver...
+
+Using dynamic, smallest domain heuristic...
+
+Solution found
+-------------------------
+Node details
+Details for: Unassigned vars
+size of list : 0
+
+
+Node variables map: 
+var: 0 with domain:  1 
+
+var: 1 with domain:  3 
+
+var: 2 with domain:  0 
+
+var: 3 with domain:  2 
+
+Number of nodes: 12
+Number of arc revisions: 24
+Time elapsed: 2ms

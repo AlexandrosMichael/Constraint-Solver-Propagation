@@ -1,0 +1,73 @@
+Initialising variables map...
+
+Initialising variables list...
+
+Begin solving with Forward Checking solver...
+
+Using dynamic smallest domain heuristic...
+
+Solution found
+-------------------------
+Node details
+Details for: Unassigned vars
+size of list : 0
+
+
+Node variables map: 
+var: 0 with domain:  1 
+
+var: 1 with domain:  3 
+
+var: 2 with domain:  5 
+
+var: 3 with domain:  4 
+
+var: 4 with domain:  7 
+
+var: 5 with domain:  10 
+
+var: 6 with domain:  17 
+
+var: 7 with domain:  21 
+
+var: 8 with domain:  25 
+
+var: 9 with domain:  8 
+
+var: 10 with domain:  13 
+
+var: 11 with domain:  18 
+
+var: 12 with domain:  14 
+
+var: 13 with domain:  20 
+
+var: 14 with domain:  26 
+
+var: 15 with domain:  9 
+
+var: 16 with domain:  16 
+
+var: 17 with domain:  23 
+
+var: 18 with domain:  11 
+
+var: 19 with domain:  19 
+
+var: 20 with domain:  27 
+
+var: 21 with domain:  6 
+
+var: 22 with domain:  15 
+
+var: 23 with domain:  24 
+
+var: 24 with domain:  2 
+
+var: 25 with domain:  12 
+
+var: 26 with domain:  22 
+
+Number of nodes: 3296
+Number of arc revisions: 19981
+Time elapsed: 1313ms

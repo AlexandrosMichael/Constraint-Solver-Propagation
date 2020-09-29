@@ -1,0 +1,181 @@
+Initialising variables map...
+
+Initialising variables list...
+
+Begin solving with Forward Checking solver...
+
+Using static ascending variable strategy...
+
+Solution found
+-------------------------
+Node details
+Details for: Unassigned vars
+size of list : 0
+
+
+Node variables map: 
+var: 0 with domain:  8 
+
+var: 1 with domain:  1 
+
+var: 2 with domain:  2 
+
+var: 3 with domain:  7 
+
+var: 4 with domain:  5 
+
+var: 5 with domain:  3 
+
+var: 6 with domain:  6 
+
+var: 7 with domain:  4 
+
+var: 8 with domain:  9 
+
+var: 9 with domain:  9 
+
+var: 10 with domain:  4 
+
+var: 11 with domain:  3 
+
+var: 12 with domain:  6 
+
+var: 13 with domain:  8 
+
+var: 14 with domain:  2 
+
+var: 15 with domain:  1 
+
+var: 16 with domain:  7 
+
+var: 17 with domain:  5 
+
+var: 18 with domain:  6 
+
+var: 19 with domain:  7 
+
+var: 20 with domain:  5 
+
+var: 21 with domain:  4 
+
+var: 22 with domain:  9 
+
+var: 23 with domain:  1 
+
+var: 24 with domain:  2 
+
+var: 25 with domain:  8 
+
+var: 26 with domain:  3 
+
+var: 27 with domain:  1 
+
+var: 28 with domain:  5 
+
+var: 29 with domain:  4 
+
+var: 30 with domain:  2 
+
+var: 31 with domain:  3 
+
+var: 32 with domain:  7 
+
+var: 33 with domain:  8 
+
+var: 34 with domain:  9 
+
+var: 35 with domain:  6 
+
+var: 36 with domain:  3 
+
+var: 37 with domain:  6 
+
+var: 38 with domain:  9 
+
+var: 39 with domain:  8 
+
+var: 40 with domain:  4 
+
+var: 41 with domain:  5 
+
+var: 42 with domain:  7 
+
+var: 43 with domain:  2 
+
+var: 44 with domain:  1 
+
+var: 45 with domain:  2 
+
+var: 46 with domain:  8 
+
+var: 47 with domain:  7 
+
+var: 48 with domain:  1 
+
+var: 49 with domain:  6 
+
+var: 50 with domain:  9 
+
+var: 51 with domain:  5 
+
+var: 52 with domain:  3 
+
+var: 53 with domain:  4 
+
+var: 54 with domain:  5 
+
+var: 55 with domain:  2 
+
+var: 56 with domain:  1 
+
+var: 57 with domain:  9 
+
+var: 58 with domain:  7 
+
+var: 59 with domain:  4 
+
+var: 60 with domain:  3 
+
+var: 61 with domain:  6 
+
+var: 62 with domain:  8 
+
+var: 63 with domain:  4 
+
+var: 64 with domain:  3 
+
+var: 65 with domain:  8 
+
+var: 66 with domain:  5 
+
+var: 67 with domain:  2 
+
+var: 68 with domain:  6 
+
+var: 69 with domain:  9 
+
+var: 70 with domain:  1 
+
+var: 71 with domain:  7 
+
+var: 72 with domain:  7 
+
+var: 73 with domain:  9 
+
+var: 74 with domain:  6 
+
+var: 75 with domain:  3 
+
+var: 76 with domain:  1 
+
+var: 77 with domain:  8 
+
+var: 78 with domain:  4 
+
+var: 79 with domain:  5 
+
+var: 80 with domain:  2 
+
+Number of nodes: 218712
+Number of arc revisions: 5395849
+Time elapsed: 101030ms
