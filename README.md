@@ -33,6 +33,3 @@ In order to automate the process of collecting empirical evidence, I have provid
 ```bash
 ./empirical.sh
 ```
-
-## Author
-160004864
